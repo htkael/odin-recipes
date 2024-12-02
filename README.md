@@ -1,1 +1,2 @@
 # odin-recipes
+This will be my first project in the Odin Project. I will be building a recipe website. I expect to write headers, lists, use bold, italics, links, and implement images. I will come back after the project is finished to share insights. What was difficult? What was easy? What did I learn?
