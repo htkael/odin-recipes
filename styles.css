@@ -20,8 +20,7 @@ body {
 .vn {
     height: 400px;
     width: auto;
-    margin-left: auto;
-    margin-right: auto;
+margin: auto;
     display: block;
 }
 #recipelist {
@@ -37,7 +36,17 @@ li +li {
     text-align: center;
     font-size: 25px;
     font-family: fantasy;
-    font-stretch: ultra-expanded;
-    font-weight: bolder;
     background-color: rgb(133, 132, 65);
+    margin: 10px 300px 10px 350px;
+    width: 100px;
+    padding: 8px;
+    border: 2px black solid;
+}
+.fph {
+    border: 20px groove burlywood ;
+    width: 500px;
+    margin: auto;
+}
+div#wow {
+    background-color: grey;
 }
