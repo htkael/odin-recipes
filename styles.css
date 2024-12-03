@@ -1,0 +1,43 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(253, 253, 254);
+
+}
+.sitename {
+    font-weight: bold;
+    color: rgb(159, 126, 18);
+    text-align: center;
+}
+.buldak {
+    color: rgb(159, 6, 6);
+}
+.ice {
+    color: rgb(136, 215, 244);
+}
+.mashed {
+    color: rgba(252, 195, 121, 0.847);
+}
+.vn {
+    height: 400px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#recipelist {
+ text-align: center;
+    display: table;
+  margin: 0 auto;
+    font-size: 30px;
+}
+li +li {
+    margin-top: 20px;
+}
+#verynice {
+    text-align: center;
+    font-size: 25px;
+    font-family: fantasy;
+    font-stretch: ultra-expanded;
+    font-weight: bolder;
+    background-color: rgb(133, 132, 65);
+}
