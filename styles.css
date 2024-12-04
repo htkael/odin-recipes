@@ -25,13 +25,92 @@ p.info {
     text-align: left;
     font-style: oblique;
     font-family: fantasy;
-    margin-top: -15px;
+    margin-top: -170px;
     margin-left: 20px;
 }
 
 img.logo {
     height: 210px;
     width: auto;
-    margin-left: 1057px;
-    margin-top: -500px;
+    margin-left: 1021px;
+   margin-top: -56px; 
 }
+div.container.main {
+    border: rgb(143, 120, 90) groove 25px;
+    width: 600px;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 100px;
+    height: 700px;
+}
+
+img.borat {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-top: 50px;
+
+}
+
+p.desc {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+button.butt {
+    width: 150px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-weight: bolder;
+    font-size: 25px;
+    background-color: rgb(12, 141, 254);
+}
+
+div.recipes {
+    border: outset black 5px;
+    width: 500px;
+    margin-left: 875px;
+    margin-top: -530px;
+}
+
+h1.eats {
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+ul#list {
+    font-size: 18px;
+}
+
+a {
+    font-weight: bolder;
+}
+ div.container.wide {
+    border: solid black 10px;
+    margin-top: 300px;
+    height: 200px;
+ }
+
+ h2.daily {
+    margin-left: 20px;
+    font-size: 40px;
+    margin-top: 1px;
+ }
+
+ p.daily {
+    font-size: 20px;
+    width: 900px;
+    height: auto;
+    text-align: left;
+    font-style: oblique;
+    font-family: fantasy;
+    margin-left: 20px;
+ }
