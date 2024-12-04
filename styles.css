@@ -1,52 +1,37 @@
+html, body {
+    margin: 0px;
+}
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: rgb(253, 253, 254);
+    background: rgb(255, 255, 255);
+}
 
+div.header {
+    background-color: rgb(188, 188, 188, 0.5);
+    height: 200px;
+    margin-top: -40px;
 }
-.sitename {
-    font-weight: bold;
-    color: rgb(159, 126, 18);
-    text-align: center;
+
+p.sitename {
+    font-size: 40px;
+    color: goldenrod;
+    font-weight: bolder;
+    margin-left: 20px;
 }
-.buldak {
-    color: rgb(159, 6, 6);
-}
-.ice {
-    color: rgb(136, 215, 244);
-}
-.mashed {
-    color: rgba(252, 195, 121, 0.847);
-}
-.vn {
-    height: 400px;
-    width: auto;
-margin: auto;
-    display: block;
-}
-#recipelist {
- text-align: center;
-    display: table;
-  margin: 0 auto;
-    font-size: 30px;
-}
-li +li {
-    margin-top: 20px;
-}
-#verynice {
-    text-align: center;
-    font-size: 25px;
+p.info {
+    font-size: 20px;
+    width: 900px;
+    height: auto;
+    text-align: left;
+    font-style: oblique;
     font-family: fantasy;
-    background-color: rgb(133, 132, 65);
-    margin: 10px 300px 10px 350px;
-    width: 100px;
-    padding: 8px;
-    border: 2px black solid;
+    margin-top: -15px;
+    margin-left: 20px;
 }
-.fph {
-    border: 20px groove burlywood ;
-    width: 500px;
-    margin: auto;
-}
-div#wow {
-    background-color: grey;
+
+img.logo {
+    height: 210px;
+    width: auto;
+    margin-left: 1057px;
+    margin-top: -500px;
 }
